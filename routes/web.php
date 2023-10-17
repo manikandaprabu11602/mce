@@ -8,6 +8,3 @@ Route::post('/save-content', [EditorController::class, 'saveContent'])->name('sa
 Route::get('/view', [EditorController::class, 'viewContent'])->name('view-content');
 
 
-
-
-//second change in first branch
