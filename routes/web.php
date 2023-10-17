@@ -8,4 +8,8 @@ Route::post('/save-content', [EditorController::class, 'saveContent'])->name('sa
 Route::get('/view', [EditorController::class, 'viewContent'])->name('view-content');
 
 
+<<<<<<< HEAD
 //s
+=======
+//dddddddd
+>>>>>>> ddf057ee09f924a12a2361c121d1e7739d37fcf3
