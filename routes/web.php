@@ -7,7 +7,10 @@ Route::post('/save-content', [EditorController::class, 'saveContent'])->name('sa
 
 Route::get('/view', [EditorController::class, 'viewContent'])->name('view-content');
 
+<<<<<<< HEAD
 //changhs in main branchsssss
 
 //jjjjjjjjjj
+=======
+>>>>>>> 6dc61bc138a96435aaa565b67156bcd2f85cbcd6
 
